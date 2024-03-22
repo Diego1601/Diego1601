@@ -26,16 +26,16 @@ Cursando Desenvolvimento Front-End na empresa Vai na Web.
 
 ### Outras Tecnologias e Plataformas que tenho conhecimento:
 
-<img src="![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)" alt="Vite"/>
-<img src="![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub Pages"/>
-<img src="![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)" alt="Vercel"/>
-<img src="![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)" alt="CodeSandBox"/>
-<img src="![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)" alt="Visual Studio Code"/>
+<img src="https://camo.githubusercontent.com/3a15a92b116b1afb31a0ccaab1eedc0b09251b6f0f5b149ba91d488ae6a47ad3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d2532333634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d7768697465" alt="Vite"/>
+<img src="https://camo.githubusercontent.com/803d9beb394524e7db9f15a41082391dfaf6670fd79c2f546194fd4b86115917/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub Pages"/>
+<img src="https://camo.githubusercontent.com/b9ff564d8c311812747f1aacea54cf703d850756f9179f9eff6899da20a701a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" alt="Vercel"/>
+<img src="https://camo.githubusercontent.com/99a9fffa0a080cb11c93e2c1e719657d90e6ec330d07eb09a01973d4eb749ea2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646573616e64626f782d3034303430343f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646573616e64626f78266c6f676f436f6c6f723d444244424442" alt="CodeSandBox"/>
+<img src="https://camo.githubusercontent.com/c891389a25d8399ac59099761b21a8b84fb064a40b486792b10df9413cf6293b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465" alt="Visual Studio Code"/>
 
 
 ### Sistema Operacional que mais uso:
 
-<img src="![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)" alt="Windows"/>
+<img src="https://camo.githubusercontent.com/c292429e232884db22e86c2ea2ea7695bc49dc4ae13344003a95879eeb7425d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows"/>
 
 <!--
 **Diego1601/Diego1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

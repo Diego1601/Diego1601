@@ -20,7 +20,7 @@ Cursando Desenvolvimento Front-End na empresa Vai na Web.
 
 ### FrameWorks e Bibliotecas que tenho conhecimento:
 
-<img src="![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)" alt="Styled-Components"/>
+<img src="https://camo.githubusercontent.com/0a9129617dc00aac4a5c688e87f4a595a0076877dd38c12f279ad16c8eda2604/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465" alt="Styled-Components"/>
 <img src="![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" alt="React"/>
 
 

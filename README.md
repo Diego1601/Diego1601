@@ -11,7 +11,8 @@ Cursando Desenvolvimento Front-End na empresa Vai na Web.
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.styled-components.com/atom.png)" alt="Styled Components"/>
+<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/-ReactJs-61DAFB)" alt="React"/>
+
 
 <!--
 **Diego1601/Diego1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,8 +4,7 @@ Sou de Pernambuco - Brasil.
 
 Apaixonado por tecnologia.
 
-Atualmente cursando Ciência da Computação na Universidade de Salvador e 
-Cursando Desenvolvimento Front-End na empresa Vai na Web.
+Atualmente cursando Ciência da Computação na Universidade de Salvador e já sou formado em Desenvolvimento Front-End pela empresa Vai na Web.
 
 [![card](https://github-readme-stats.vercel.app/api?username=diego1601&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

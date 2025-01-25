@@ -31,7 +31,7 @@ Atualmente cursando Ciência da Computação na Universidade de Salvador e já s
 
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 
-<img src="![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub Pages"/>
+<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 
@@ -42,7 +42,7 @@ Atualmente cursando Ciência da Computação na Universidade de Salvador e já s
 
 ### Sistema Operacional que mais uso:
 
-<img src="![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)" alt="Windows"/>
+<img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" alt="Windows"/>
 
 <!--
 **Diego1601/Diego1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -29,7 +29,7 @@ Atualmente cursando Ciência da Computação na Universidade de Salvador e já s
 
 ### Outras Tecnologias e Plataformas que tenho conhecimento:
 
-<img src="![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)" alt="Vite"/>
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 
 <img src="![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub Pages"/>
 

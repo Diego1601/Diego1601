@@ -29,9 +29,9 @@ Atualmente cursando Ciência da Computação na Universidade de Salvador e já s
 
 ### Outras Tecnologias e Plataformas que tenho conhecimento:
 
-<img src="https://camo.githubusercontent.com/3a15a92b116b1afb31a0ccaab1eedc0b09251b6f0f5b149ba91d488ae6a47ad3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d2532333634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d7768697465" alt="Vite"/>
+<img src="![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)" alt="Vite"/>
 
-<img src="https://camo.githubusercontent.com/803d9beb394524e7db9f15a41082391dfaf6670fd79c2f546194fd4b86115917/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub Pages"/>
+<img src="![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub Pages"/>
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 
@@ -42,7 +42,7 @@ Atualmente cursando Ciência da Computação na Universidade de Salvador e já s
 
 ### Sistema Operacional que mais uso:
 
-<img src="https://camo.githubusercontent.com/c292429e232884db22e86c2ea2ea7695bc49dc4ae13344003a95879eeb7425d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows"/>
+<img src="![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)" alt="Windows"/>
 
 <!--
 **Diego1601/Diego1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
